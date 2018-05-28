@@ -20,3 +20,5 @@ void inicializar( void )
 	}
 struct arbol *insertar( struct arbol *raiz, struct arbol *hoja, int num );
 
+
+/*hola*/
