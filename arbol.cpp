@@ -4,6 +4,8 @@
 /*Video*/
 using namespace std;
 
+/* Hola! ^-^ (Salma) */
+
 struct arbol
 	{
 	int dato;
