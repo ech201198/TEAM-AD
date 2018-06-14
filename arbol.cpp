@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 /*Fidel*/
+/*Video*/
 using namespace std;
 
 struct arbol
